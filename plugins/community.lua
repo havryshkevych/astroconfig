@@ -6,5 +6,6 @@ return {
 
   { import = "astrocommunity.colorscheme.dracula-nvim" },
   { import = "astrocommunity.motion.leap-nvim" },
+  { import = "astrocommunity.editing-support.auto-save-nvim" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
